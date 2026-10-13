@@ -1,0 +1,15 @@
+# from,to,distance_km
+from,to,distance_km
+Railway Station,Bus Stand,2.5
+Railway Station,Market,3.0
+Bus Stand,Market,1.5
+Bus Stand,College,4.0
+Market,Hospital,2.0
+Market,Mall,3.5
+Hospital,Mall,1.5
+College,Mall,2.5
+College,Stadium,3.0
+Mall,Airport,6.0
+Stadium,Airport,7.5
+Hospital,Airport,8.0
+Village,Farmhouse,2.0
